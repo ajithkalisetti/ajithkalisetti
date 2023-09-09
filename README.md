@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=40&lines=Hi+there!;I'm+AJITH+KALISETTI;I'm+a+DevOps+Engineer&color=000080&width=800&height=100)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=40&duration=1000&pause=500&color=00E4A9&width=400&&repeat=falselines&height=70&lines=Hey!;Nice+to+Meet+you...%F0%9F%98%83%09;I'm+AJITH+KALISETTI;DevOps+Engineer)](https://git.io/typing-svg)
 
 ## 👨🏻‍💻 About me:
 
 - 👨‍🎓 Engineer Graduate at SRKR Engineering College - Andhra University
 - ⌨️ Experienced in Provisioning and Managing Cloud Infrastructure, Automation, and handling CICD Lifecycle.
-- ![image](https://github.com/ajithkalisetti/ajithkalisetti/assets/83327765/07754b55-b1a8-4986-a5a8-550ff6565706) Currently Working on Azure, AWS, Azure DevOps.
+- 🌱 Currently Working on Azure, AWS, Azure DevOps.
 - 🌐 [My Website](https://ajithkalisetti.github.io/)
 
 ## 🛠 Tech Stack
