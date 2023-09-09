@@ -4,8 +4,7 @@
 
 - 👨‍🎓 Engineer Graduate at SRKR Engineering College - Andhra University
 - ⌨️ Experienced in Provisioning and Managing Cloud Infrastructure, Automation, and handling CICD Lifecycle.
-- ![image](https://github.com/ajithkalisetti/ajithkalisetti/assets/83327765/e7bfb11e-bac0-46fc-933f-e5b97d557d05)
- Currently Working on Azure, AWS, Azure DevOps.
+- ![image](https://github.com/ajithkalisetti/ajithkalisetti/assets/83327765/07754b55-b1a8-4986-a5a8-550ff6565706) Currently Working on Azure, AWS, Azure DevOps.
 - 🌐 [My Website](https://ajithkalisetti.github.io/)
 
 ## 🛠 Tech Stack
