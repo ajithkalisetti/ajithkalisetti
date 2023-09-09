@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=40&lines=Hi+There!;I'm+AJITH+KALISETTI;DevOps+Engineer&color=000080&width=400&height=70)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=40&lines=Hi+there!;I'm+AJITH+KALISETTI;I'm+a+DevOps+Engineer&color=000080&width=800&height=100)](https://git.io/typing-svg)
 
 ## 👨🏻‍💻 About me:
 
